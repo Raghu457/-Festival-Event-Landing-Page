@@ -67,7 +67,7 @@ This project is licensed under the **MIT License** – free to use and modify.
 ---
 
 ### 🔗 Connect  
-Made with ❤️ by [Your Name]  
-- 🌐 [Portfolio/Website](#)  
+Made with ❤️ by Surada Raghavendra 
+- 🌐 [Portfolio/Website](personal-portfolio-site-steel.vercel.app)  
 - 📸 [Instagram](https://www.instagram.com/mr_raghu_418_/?hl=en)  
 - 📘 [Facebook](https://www.facebook.com/profile.php?id=100050616844335)  
